@@ -1,10 +1,10 @@
 # Module-2 Challenge
 
-- **Multiple_year_stock_data_with_script.xlsm** : stock data from base assignment starter file and **StockDataYearlyChange** VBA script to run
+- **<code>Multiple_year_stock_data_with_script.xlsm</code>** : stock data from base assignment starter file and <code>StockDataYearlyChange</code> VBA script to run
 
-- **StockDataYearlyChange** : VBA Script in .bas and .txt format
+- **<code>StockDataYearlyChange</code>** : VBA Script in .bas and .txt format
 
-- **2018/2019/2010.png** : screenshots of script results on each year's worksheet
+- **<code>2018/2019/2010.png</code>** : screenshots of script results on each year's worksheet
 ---
 ## Instructions
 
